@@ -24,3 +24,13 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 1
           plugin_lines_delay: 30
+          plugin_lines_skipped: |
+            alleriasun/cpp.RDBMS
+            alleriasun/js.GroceryHelper
+            alleriasun/akka.Squares
+            alleriasun/.dotfiles
+            alleriasun/.setup
+            alleriasun/akka.GossipSim
+            alleriasun/mr.PageRank
+            alleriasun/py.Androick
+            alleriasun/mr.WikipediaPageRank
